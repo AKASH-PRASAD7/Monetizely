@@ -7,7 +7,7 @@ A lightweight, Next.js-based quoting application for SaaS pricing analysts to mo
 - **Language**: TypeScript
 - **Database**: PostgreSQL (Neon Serverless)
 - **ORM**: Drizzle ORM
-- **Styling**: Tailwind CSS v4 + Glassmorphism UI
+- **Styling**: Tailwind CSS v4 
 - **Testing**: Vitest (Unit Math) + Playwright (E2E)
 
 ## How to run locally
